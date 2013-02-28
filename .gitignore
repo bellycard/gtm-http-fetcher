@@ -1,5 +1,16 @@
-Source/GTMHTTPFetcher.xcodeproj/project.xcworkspace/contents.xcworkspacedata
-Source/GTMHTTPFetcher.xcodeproj/project.xcworkspace/xcuserdata/marty.xcuserdatad/UserInterfaceState.xcuserstate
-Source/GTMHTTPFetcher.xcodeproj/xcuserdata/marty.xcuserdatad/xcschemes/GTMHTTPFetcherLib.xcscheme
-Source/GTMHTTPFetcher.xcodeproj/xcuserdata/marty.xcuserdatad/xcschemes/UnitTests.xcscheme
-Source/GTMHTTPFetcher.xcodeproj/xcuserdata/marty.xcuserdatad/xcschemes/xcschememanagement.plist
+# Xcode
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+.DS_Store
